@@ -17,6 +17,7 @@ The application fetches the list of restaurants meeting his criteria, based on t
 
 John can quickly make his choice based on this information and enjoy a delightful meal without any hassle. 
 
+![Alt text](ui.jfif)
 ---
 
 ### JSON Sample:
